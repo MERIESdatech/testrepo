@@ -1,0 +1,19 @@
+|_brief1:
+|___|---img:
+|_______|----favicon:
+|__________|---- pictures with deferents format
+|_____|picture of site 
+|_style.css
+|
+|_index.html
+|
+|_a-propos.html
+|
+|_programmes.html
+|
+|_contact.html
+|
+|_blog.html
+|
+|
+    
